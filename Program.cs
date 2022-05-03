@@ -2,3 +2,7 @@
 var testVar = "Hello World";
 
 Console.WriteLine(testVar);
+
+if (testVar == "Hello World") {
+    Console.WriteLine("Yay!");
+}
